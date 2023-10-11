@@ -1,0 +1,21 @@
+class VertexArray {
+
+  /**
+  test doc comment
+  **/
+  private int id;
+  /*
+  test multi line comment
+  */
+  private int vertexCount;
+
+  public int ha;
+
+  protected int hi;
+
+  //test comm
+  public VertexArray(int id_, int vertexCount_) {
+    id = id_;
+    vertexCount = vertexCount_;
+  }
+}
